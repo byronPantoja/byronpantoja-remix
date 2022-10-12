@@ -4,7 +4,7 @@ const profile = {
   name: "Byron Pantoja",
   email: "byronpantoja@gmail.com",
   avatar:
-    "https://res.cloudinary.com/db7p5kwzh/image/upload/t_media_lib_thumb/v1665604595/byronpantoja.com/byron-warm_opwncv.png",
+    "https://res.cloudinary.com/db7p5kwzh/image/upload/c_scale,f_webp,q_100,w_600/v1665604595/byronpantoja.com/byron-warm_opwncv.webp",
   backgroundImage:
     "https://res.cloudinary.com/db7p5kwzh/image/upload/c_scale,f_webp,w_1200/v1665604619/byronpantoja.com/833_pgfl5z.png",
   fields: [
