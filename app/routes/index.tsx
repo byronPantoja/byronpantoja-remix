@@ -4,9 +4,9 @@ const profile = {
   name: "Byron Pantoja",
   email: "byronpantoja@gmail.com",
   avatar:
-    "https://res.cloudinary.com/db7p5kwzh/image/upload/v1665604595/byronpantoja.com/byron-warm_gjmkkb.jpg",
+    "https://res.cloudinary.com/db7p5kwzh/image/upload/t_media_lib_thumb/v1665604595/byronpantoja.com/byron-warm_opwncv.png",
   backgroundImage:
-    "https://res.cloudinary.com/db7p5kwzh/image/upload/v1665604619/byronpantoja.com/833_pgfl5z.png",
+    "https://res.cloudinary.com/db7p5kwzh/image/upload/c_scale,f_webp,w_1200/v1665604619/byronpantoja.com/833_pgfl5z.png",
   fields: [
     ["Email", "byronpantoja@gmail.com"],
     ["Location", "Davao City, Philippines"],
@@ -21,7 +21,7 @@ export default function Index() {
           <img
             className="h-32 w-full object-cover lg:h-48"
             src={profile.backgroundImage}
-            alt=""
+            alt="Flower of Life design by Byron Pantoja"
           />
         </div>
         <div className="mx-auto max-w-5xl px-4 sm:px-6 lg:px-8">
@@ -30,7 +30,7 @@ export default function Index() {
               <img
                 className="h-24 w-24 rounded-full ring-4 ring-white sm:h-32 sm:w-32"
                 src={profile.avatar}
-                alt=""
+                alt="Byron Pantoja Smiling"
               />
             </div>
             <div className="mt-6 sm:flex sm:min-w-0 sm:flex-1 sm:items-center sm:justify-end sm:space-x-6 sm:pb-1">
