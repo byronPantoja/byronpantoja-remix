@@ -6,7 +6,7 @@ const profile = {
   avatar:
     "https://res.cloudinary.com/db7p5kwzh/image/upload/c_scale,f_webp,q_100,w_600/v1665604595/byronpantoja.com/byron-warm_opwncv.webp",
   backgroundImage:
-    "https://res.cloudinary.com/db7p5kwzh/image/upload/c_scale,f_webp,w_1200/v1665604619/byronpantoja.com/833_pgfl5z.png",
+    "https://res.cloudinary.com/db7p5kwzh/image/upload/c_scale,f_webp,q_100,w_1900/v1665617067/byronpantoja.com/dbp-2021_Desktop-loud-01_uzyp42.webp",
   fields: [
     ["Email", "byronpantoja@gmail.com"],
     ["Location", "Davao City, Philippines"],
@@ -19,9 +19,9 @@ export default function Index() {
       <div>
         <div>
           <img
-            className="h-32 w-full object-cover lg:h-48"
+            className="h-50 w-full object-cover lg:h-48"
             src={profile.backgroundImage}
-            alt="Flower of Life design by Byron Pantoja"
+            alt="dbp lettering designed by Byron - cool 3d effect cartoon letters on warm background"
           />
         </div>
         <div className="mx-auto max-w-5xl px-4 sm:px-6 lg:px-8">
