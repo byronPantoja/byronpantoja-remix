@@ -59,8 +59,8 @@ export default function Index() {
           <p className="mx-auto mt-5 max-w-5xl pt-5 text-xl text-gray-500">
             I'm tech enthusiast based in Davao City. I'm fascinated with
             communication design and human behaivor. I'm a father, a husband,
-            and a friend. And I'm always looking to improve. I'll write about my
-            journey as a human and things I'm learning here.
+            and a friend. And I'm always looking to improve. I'll write all that
+            here.
           </p>
         </div>
       </div>
